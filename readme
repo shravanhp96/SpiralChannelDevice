@@ -1,1 +1,1 @@
-This project was intended for use in a mechanical engineering lab focused on sorting sperm particles at the University of Utah.
+This project was intended for use in Bruce Gale's lab at the University of Utah. The files in this repository provide possible dimensions of a device that will separate particles of a desired size, such as chromosomes, blood cells, and sperm cells. Particles are approximated to be spheres.
